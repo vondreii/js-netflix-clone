@@ -1,0 +1,15 @@
+API Key:
+dde4744ecbd9053534d71d2352faa9da
+
+Example API Request: 
+https://api.themoviedb.org/3/movie/550?api_key=dde4744ecbd9053534d71d2352faa9da
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZGU0NzQ0ZWNiZDkwNTM1MzRkNzFkMjM1MmZhYTlkYSIsInN1YiI6IjYxMDQ5YWFjMmEyMTBjMDA3ZTE1NDkyMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.tggvj0PXmOtZJQJIh0PAbgHdOb0dWymI25FQZ9wXDrs
+
+// axios is for making the api requests
+// uppercase r is for components
+// lowercase r is for non-components/functional modules
+
+you can have multiple exports in one file. Eg store many classes in one file.
+You can only have one default export in a file
