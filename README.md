@@ -1,7 +1,6 @@
 # js-netflix-clone
 
-This is a Netflix Clone made over a few weekends while following [this tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU) on Youtube.
-
+This is a Netflix Clone made over a few weekends while following [this tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU) on Youtube. 
 It replicates the look and feel of Netflix, and clicking on certain thumbnails will play the trailer for the movie. It does not play the actual movies.
 
 ## API
@@ -20,8 +19,10 @@ To run the code in development mode, download or clone the repo and run `npm sta
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm run build`
+## To Build
 
-Builds the app for production to the `build` folder.
+Run `npm run build`
+
+This builds the app for production to the `build` folder.
 
 ![Netflix Clone](./images/final.png)
