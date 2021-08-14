@@ -2,7 +2,7 @@
 
 This is a Netflix Clone made over a few weekends while following [this tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU) on Youtube.
 
-It replicates the look and feel of Netflix, and clicking on certain thumbnails will play the trailer for the movie.
+It replicates the look and feel of Netflix, and clicking on certain thumbnails will play the trailer for the movie. It does not play the actual movies.
 
 ## API
 
